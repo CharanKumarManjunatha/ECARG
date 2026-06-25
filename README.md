@@ -4,29 +4,7 @@ Official implementation accompanying the paper:
 
 **Emotion-Conditioned Reinforcement Learning for Adaptive Empathetic Response Generation in Human–AI Interaction**
 
-## Repository Structure
 
-```
-ECARG/
-├── notebooks/
-│   ├── 01_mese_emotion_state_estimation.ipynb
-│   ├── 02_rl_policy_training.ipynb
-│   ├── 03_model_comparison.ipynb
-│   ├── 04_vad_simulation.ipynb
-│   ├── 05_safety_analysis.ipynb
-│   ├── 06_domain_adaptation.ipynb
-│   └── 07_shap_interpretability.ipynb
-├── data/
-├── figures/
-├── models/
-├── results/
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-└── README.md
-```
-
-## Overview
 
 ECARG consists of:
 
