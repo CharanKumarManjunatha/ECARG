@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pth
+*.pt
+*.ckpt
+logs/
+wandb/
+data/raw/
+data/interim/
+.DS_Store
+Thumbs.db
